@@ -3,8 +3,8 @@
 ## Project Overview
 This project demonstrates my experience in deploying and configuring warehouse IT devices, including:
 
-- Zebra Tablet
 - Ring Scanner
+- Rugged Cordless Scanner
 - Vehicle Mounted Terminal (VMT)
 - Device Labeling
 - Basic Troubleshooting
@@ -12,7 +12,7 @@ This project demonstrates my experience in deploying and configuring warehouse I
 ## My Responsibilities
 
 - Install VMT on forklifts
-- Configure Zebra tablets and ring scanners
+- Configure VMT, Rugged Cordless Scanner and Ring Scanners
 - Create device labeling system
 - Test power and connectivity
 - Implement the new system every PC users and VMT
