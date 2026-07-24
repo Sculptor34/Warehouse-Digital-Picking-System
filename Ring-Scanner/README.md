@@ -8,6 +8,3 @@ This project demonstrates the how to configure ring scanner.
 
 # Result
 The Ring Scanner able to scan and reflect in the VMT
-
-# Notes
-This setup was performed by administrator 
