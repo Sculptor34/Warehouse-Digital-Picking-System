@@ -1,7 +1,7 @@
-# Zebra Ring Scanner Configuration
+# Ring Scanner Zebra Configuration
 
 # Overview
-This project demonstrates the how to configure Zebra Ring Scanner .
+This project demonstrates the how to configure Ring Scanner Zebra
 
 # Model
 1. RS6100
