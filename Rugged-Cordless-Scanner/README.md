@@ -5,7 +5,7 @@ This project demonstrates the how to configure Rugged Cordless Scanner Zebra.
 
 # Steps performed:
 1. Follow the documentation attached
-2. Applied label stickers to all ring scanners.
+2. Applied label stickers to all Rugged Cordless Scanner
 3. Created an inventory Excel file and recorded the remarks for each item  
 
 # Result
