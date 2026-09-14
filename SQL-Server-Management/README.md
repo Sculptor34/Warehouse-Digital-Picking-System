@@ -19,7 +19,10 @@ This project demonstrates the basic SQL commands used in daily operations.
    where order_number = ''
    and pick_id = ''
 
-5. select * from t_pick_detail_info
+5. select * from t_pick_detail_info 
+   where full_barcode like '%2665%'
+
+6. select * from t_pick_detail_info
    where item_number = ''
    and cast(picked_date as date) = cast('' as date)
 
