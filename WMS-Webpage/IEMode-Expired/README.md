@@ -13,7 +13,7 @@ The URL could not be opened after the expiration date.
 # Solution
 Steps performed:
 1. Follow the documentation attached (Method 1)
-2. Run the script as administrator (Method 2)
+2. Run the script 'IEMode-setup.bat' as administrator (Method 2)
 
 ## Commands Used
 1. N/A
