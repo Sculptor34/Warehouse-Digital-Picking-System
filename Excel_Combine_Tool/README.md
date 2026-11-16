@@ -1,4 +1,4 @@
-# Warehouse Cycle Count Excel Auto-Combiner
+# Warehouse Excel Auto-Combiner
 
 A simple Excel VBA tool that combines multiple warehouse cycle count Excel files into one workbook with a single click.
 
